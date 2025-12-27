@@ -1,13 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 26.2//EN
-N:Laire;Yohan ;;;
-FN:Yohan  Laire
-ORG:Atrium CLFD;
-EMAIL;type=INTERNET;type=WORK;type=pref:y.laire@atrium-clfd.com
-TEL;type=WORK;type=VOICE;type=pref:04 73 28 78 28
-TEL;type=CELL;type=VOICE:06 98 71 91 63
-item1.ADR;type=HOME;type=pref:;;60\, Avenue de la République;Clermont-Ferrand;;63100;France
-item1.X-ABADR:fr
-item2.URL;type=pref:https://atrium-clfd.fr
-item2.X-ABLab
+N:Laire;Yohan
+FN:Yohan Laire
+ORG:Atrium CLFD
+TEL;TYPE=WORK,VOICE:+33473287828
+TEL;TYPE=CELL,VOICE:+33698719163
+EMAIL;TYPE=WORK,INTERNET:y.laire@atrium-clfd.com
+ADR;TYPE=WORK:;;60 Avenue de la République;Clermont-Ferrand;;63100;France
+URL:https://atrium-clfd.fr
+END:VCARD
