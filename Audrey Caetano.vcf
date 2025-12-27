@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.2//EN
+N:Caetano;Audrey;;;
+FN:Audrey Caetano
+ORG:Atrium CLFD;
+EMAIL;type=INTERNET;type=WORK;type=pref:a.caetano@atrium-clfd.com
+TEL;type=WORK;type=VOICE;type=pref:04 73 28 78 28
+TEL;type=CELL;type=VOICE:06 98 71 29 76
+item1.ADR;type=HOME;type=pref:;;60\, Avenue de la République;Clermont-Ferrand;;63100;France
+item1.X-ABADR:fr
+item2.URL;type=pref:https://atrium-clfd.fr
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
