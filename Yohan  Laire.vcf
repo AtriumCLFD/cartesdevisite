@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.2//EN
+N:Laire;Yohan ;;;
+FN:Yohan  Laire
+ORG:Atrium CLFD;
+EMAIL;type=INTERNET;type=HOME;type=pref:y.laire@atrium-clfd.com
+TEL;type=pref:+33698719163
+item1.ADR;type=HOME;type=pref:;;60\, Avenue de la République;Clermont-Ferrand;;63100;France
+item1.X-ABADR:fr
+item2.URL;type=pref:https://atrium-clfd.fr
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
